@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819876704575",
+    "project_id": "kamolphop-panboonlue",
+    "storage_bucket": "kamolphop-panboonlue.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819876704575:android:9d53976b3184aaf851238a",
+        "android_client_info": {
+          "package_name": "com.example.app_Diary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf2rHM4t1zWbhlWfzLsU-m6JQR3m1IBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
